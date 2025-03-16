@@ -5,7 +5,7 @@ from pprint import pprint
 import requests
 from pprint import pprint
 
-api_key = "b4e35b2eeae8a0d1125b206a527d5675"
+api_key = "key"
 city = ("Marrakesh")
 base_url = "http://api.weatherstack.com/current"
 
@@ -36,7 +36,7 @@ import requests
 
 def search_weather(city):
 
-    api_key = "b4e35b2eeae8a0d1125b206a527d5675"
+    api_key = "key"
     base_url = "http://api.weatherstack.com/current"
 
     url = f'{base_url}?access_key={api_key}&query={city}'
@@ -63,7 +63,7 @@ search_weather(city)
 import requests
 
 def get_weather(city):
-    api_key = "b4e35b2eeae8a0d1125b206a527d5675"
+    api_key = "key"
 
     base_url = "http://api.weatherstack.com/current"
 
