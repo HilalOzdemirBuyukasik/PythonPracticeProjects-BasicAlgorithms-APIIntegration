@@ -1,3 +1,6 @@
+#This project introduces the core functionality of a simple invoice payment application, where users can log in, select an invoice type, input usage amounts, and complete the payment process using their credit card details.
+
+
 ahmet_page = {
     "name": "Ahmet",
     "surname": "Yılmaz",
