@@ -1,3 +1,8 @@
+#Created a basic user authentication system using hardcoded user data (name, ID, password). 
+#Implemented a payment system for electricity, water, and gas invoices with different VAT rates.
+#Added logic to prompt for credit card details (number, expiration date, CVV) and validated the input format.
+#Combined all functions in a main loop for user interaction: login, invoice payment, and credit card details entry.
+#Added appropriate error messages for invalid login and payment processing failures.
 #This project introduces the core functionality of a simple invoice payment application, where users can log in, select an invoice type, input usage amounts, and complete the payment process using their credit card details.
 
 
